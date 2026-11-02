@@ -1,0 +1,6 @@
+{
+  "name": "Pele Linda",
+  "description": "Aplicativo de cuidados com a pele acessível para mulheres, com rotinas personalizadas, receitas caseiras económicas, scan facial e acompanhamento diário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
